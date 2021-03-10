@@ -8,8 +8,10 @@ If you want to enrich your profile from the standard data from github - which lo
 
 You can create a scrviz-profile.json in any of your repositories (or even better make a dedicated repository for it). See my file in this repo for an example, and you can add anything you like (but please respect the other scrviz users and make it relevant and appropriate)
 
-My scrviz profile renders like this
+My scrviz profile renders like this, with the extra profile info
 https://scrviz.web.app?owner=brucemcpherson
+![image](https://user-images.githubusercontent.com/1894020/110635343-e4e79780-81a2-11eb-89ee-be60e45acd9d.png)
+
 
 For more info on scrviz see https://ramblings.mcpher.com/vizzy-scrviz/
 
