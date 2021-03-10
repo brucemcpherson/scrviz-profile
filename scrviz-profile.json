@@ -6,7 +6,7 @@
         {
           "description": "Google developer expert",
           "link": "https://developers.google.com/community/experts/directory/profile/profile-bruce_mcpherson",
-          "tip": "G Suite and Identity GDE since 2013",
+          "tip": "GDE since 2013 : G Suite and Identity",
           "icon": "mdi-code-tags",
           "visible": true
         },
@@ -20,8 +20,15 @@
         {
           "description": "Video channel",
           "link": "https://www.youtube.com/c/BruceMcpherson",
-          "tip": "Youtube channel",
+          "tip": "Bruce Mcpherson's Youtube channel",
           "icon": "mdi-youtube",
+          "visible": true
+        },
+        {
+          "description": "Linkedin Profile",
+          "link": "https://www.youtube.com/c/BruceMcpherson",
+          "tip": "Bruce Mcpherson's linkedin profile",
+          "icon": "mdi-linkedin",
           "visible": true
         }
       ]
