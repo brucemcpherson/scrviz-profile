@@ -14,6 +14,7 @@ https://scrviz.web.app?owner=brucemcpherson
 
 
 For more info on scrviz see https://ramblings.mcpher.com/vizzy-scrviz/
+and on the profile see https://ramblings.mcpher.com/vizzy-scrviz/scrviz-profile/
 
 ## properties
 
