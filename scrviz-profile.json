@@ -1,37 +1,66 @@
 {
-  "scrviz": {
-    "owner": {
-      "login": "brucemcpherson",
-      "rows": [
-        {
-          "description": "Google developer expert",
-          "link": "https://developers.google.com/community/experts/directory/profile/profile-bruce_mcpherson",
-          "tip": "GDE since 2013 : G Suite and Identity",
-          "icon": "mdi-code-tags",
-          "visible": true
-        },
-        {
-          "description": "O'reilly author",
-          "link": "https://www.oreilly.com/pub/au/6781",
-          "tip": "Author of Going Gas - VBA to Apps Script",
-          "icon": "mdi-book-education",
-          "visible": true
-        },
-        {
-          "description": "Video channel",
-          "link": "https://www.youtube.com/c/BruceMcpherson",
-          "tip": "Bruce Mcpherson's Youtube channel",
-          "icon": "mdi-youtube",
-          "visible": true
-        },
-        {
-          "description": "Linkedin Profile",
-          "link": "https://www.linkedin.com/in/brucemcpherson",
-          "tip": "Bruce Mcpherson's linkedin profile",
-          "icon": "mdi-linkedin",
-          "visible": true
-        }
-      ]
-    }
-  }
+	"scrviz": {
+		"owner": {
+			"login": "brucemcpherson",
+			"rows": [{
+					"description": "Google developer expert",
+					"link": "https://developers.google.com/community/experts/directory/profile/profile-bruce_mcpherson",
+					"tip": "GDE since 2013 : G Suite and Identity",
+					"icon": "mdi-code-tags",
+					"visible": true
+				},
+				{
+					"description": "O'reilly author",
+					"link": "https://www.oreilly.com/pub/au/6781",
+					"tip": "Author of Going Gas - VBA to Apps Script",
+					"icon": "mdi-book-education",
+					"visible": true
+				},
+				{
+					"description": "Video channel",
+					"link": "https://www.youtube.com/c/BruceMcpherson",
+					"tip": "Bruce Mcpherson's Youtube channel",
+					"icon": "mdi-youtube",
+					"visible": true
+				},
+				{
+					"description": "Linkedin Profile",
+					"link": "https://www.linkedin.com/in/brucemcpherson",
+					"tip": "Bruce Mcpherson's linkedin profile",
+					"icon": "mdi-linkedin",
+					"visible": true
+				}
+			]
+		},
+		"repos": [{
+				"repo": "bmFiddler",
+				"rows": [{
+					"description": "Handly helper for fiddler",
+					"link": "https://ramblings.mcpher.com/vuejs-apps-script-add-ons/helper-for-fiddler/",
+					"tip": "Wrapper library for fiddler:Abstracts sheet data - functional sheet processing",
+					"icon": "mdi-file-document",
+					"visible": true
+				}]
+			},
+			{
+				"repo": "cGoa",
+				"rows": [{
+						"description": "OAuth2 for Apps Script in a few lines of code",
+						"link": "https://ramblings.mcpher.com/oauth2-for-apps-script-in-a-few-lines-of-code/",
+						"tip": "Low setup oauth2 library for Apps Script",
+						"icon": "mdi-file-document",
+						"visible": true
+					},
+					{
+						"description": "How fast can you get OAuth2 set up in Apps Script?",
+						"link": "https://ramblings.mcpher.com/oauth2-for-apps-script-in-a-few-lines-of-code/how-fast-can-you-get-oauth2-set-up-in-apps-script/",
+						"tip": "Set up oauth2 from Apps Script to any service in under 15 minutes",
+						"icon": "mdi-file-document",
+						"visible": true
+					}
+				]
+			}
+		]
+
+	}
 }
