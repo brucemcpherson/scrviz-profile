@@ -35,7 +35,7 @@
     },
     "repos": [
       {
-        "repo": "bmFiddler",
+        "repo": "bmPreFiddler",
         "rows": [
           {
             "description": "Handly helper for fiddler",
@@ -54,6 +54,51 @@
             "link": "https://ramblings.mcpher.com/gassnippets2/watching-for-server-side-changes-from-the-client-html-service/",
             "tip": "client-side to react to changes in data (or indeed any property) as well as changes in selection and Activesheet.",
             "icon": "mdi-file-document",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "repo": "cUseful",
+        "rows": [
+          {
+            "description": "Library compilation with many things too numnerous to list",
+            "link": "https://ramblings.mcpher.com/gassnippets2/",
+            "tip": "Check out the repo to see more",
+            "icon": "mdi-file-document",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "repo": "bmFiddler",
+        "rows": [
+          {
+            "description": "Fiddler: Abstracts sheet data library",
+            "link": "https://ramblings.mcpher.com/gassnippets2/afunctionalapproachtofiddlingwithsheetdata/",
+            "tip": "Functional approach to fiddling with sheet data",
+            "icon": "mdi-file-document",
+            "visible": true
+          },
+          {
+            "description": "Fiddler Video: Abstracts sheet data library",
+            "link": "https://www.youtube.com/watch?v=BGOvmV5PXJ0",
+            "tip": "A video to get started with a functional approach to fiddling with sheet data",
+            "icon": "mdi-youtube",
+            "visible": true
+          },
+          {
+            "description": "Fiddler: fingerprinting",
+            "link": "https://ramblings.mcpher.com/vuejs-apps-script-add-ons/fiddler-fingerprint/",
+            "tip": "Optimize sheet fiddling with a fingerprint to detect changes",
+            "icon": "mdi-fingerprint",
+            "visible": true
+          },
+          {
+            "description": "Fiddler: rangelists",
+            "link": "https://ramblings.mcpher.com/gassnippets2/fiddler-and-rangelists/",
+            "tip": "formatting with fiddler",
+            "icon": "mdi-format-paint",
             "visible": true
           }
         ]
