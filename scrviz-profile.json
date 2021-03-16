@@ -2,6 +2,46 @@
   "scrviz": {
     "owner": {
       "login": "brucemcpherson",
+      "tags": [ {
+          "description": "gde",
+          "link": "https://developers.google.com/community/experts/directory/profile/profile-bruce_mcpherson",
+          "tip": "GDE since 2013 : G Suite and Identity",
+          "icon": "mdi-code-tags",
+          "visible": true
+        }, {
+          "description": "author",
+          "link": "https://www.oreilly.com/pub/au/6781",
+          "tip": "Author of Going Gas - VBA to Apps Script",
+          "icon": "mdi-book-education",
+          "visible": true
+        }, {
+          "description": "d3",
+          "link": "https://ramblings.mcpher.com/d3-js/",
+          "tip": "Vizualization with D3",
+          "icon": "mdi-chart-bubble",
+          "visible": true
+        },
+        {
+          "description": "vuejs",
+          "link": "https://ramblings.mcpher.com/vuejs-apps-script-add-ons/",
+          "tip": "Vuejs and apps script",
+          "icon": "mdi-vuejs",
+          "visible": true
+        },
+        {
+          "description": "gcp",
+          "link": "https://ramblings.mcpher.com/gcp/",
+          "tip": "google cloud platform",
+          "icon": "mdi-cloud",
+          "visible": true
+        }, {
+          "description": "ml",
+          "link": "https://ramblings.mcpher.com/gcp/",
+          "tip": "google cloud platform",
+          "icon": "mdi-school",
+          "visible": true
+        }],
+
       "rows": [
         {
           "description": "Google developer expert",
