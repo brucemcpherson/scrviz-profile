@@ -2,19 +2,22 @@
   "scrviz": {
     "owner": {
       "login": "brucemcpherson",
-      "tags": [ {
+      "tags": [
+        {
           "description": "gde",
           "link": "https://developers.google.com/community/experts/directory/profile/profile-bruce_mcpherson",
           "tip": "GDE since 2013 : G Suite and Identity",
           "icon": "mdi-code-tags",
           "visible": true
-        }, {
+        },
+        {
           "description": "author",
           "link": "https://www.oreilly.com/pub/au/6781",
           "tip": "Author of Going Gas - VBA to Apps Script",
           "icon": "mdi-book-education",
           "visible": true
-        }, {
+        },
+        {
           "description": "d3",
           "link": "https://ramblings.mcpher.com/d3-js/",
           "tip": "Vizualization with D3",
@@ -34,13 +37,22 @@
           "tip": "google cloud platform",
           "icon": "mdi-cloud",
           "visible": true
-        }, {
+        },
+        {
           "description": "ml",
           "link": "https://ramblings.mcpher.com/gcp/",
           "tip": "google cloud platform",
           "icon": "mdi-school",
           "visible": true
-        }],
+        },
+        {
+          "description": "tu",
+          "link": "https://sites.google.com/view/totallyunscripted/home",
+          "tip": "occasional contributor to Totally Unscripted Show",
+          "icon": "mdi-monitor-eye",
+          "visible": true
+        }
+      ],
 
       "rows": [
         {
