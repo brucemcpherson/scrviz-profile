@@ -41,7 +41,7 @@
         {
           "description": "ml",
           "link": "https://ramblings.mcpher.com/gcp/",
-          "tip": "google cloud platform",
+          "tip": "machine learning",
           "icon": "mdi-school",
           "visible": true
         },
@@ -51,10 +51,31 @@
           "tip": "occasional contributor to Totally Unscripted Show",
           "icon": "mdi-monitor-eye",
           "visible": true
+        },
+        {
+          "description": "kube",
+          "link": "https://ramblings.mcpher.com/gcp/getting-an-api-running-in-kubernetes/",
+          "tip": "Kubernetes",
+          "icon": "mdi-kubernetes",
+          "visible": true
+        },
+        {
+          "description": "graphql",
+          "link": "https://ramblings.mcpher.com/snipgraphql/",
+          "tip": "Apollo and GraphQL",
+          "icon": "mdi-graphql",
+          "visible": true
         }
       ],
 
       "rows": [
+        {
+          "description": "Creator of this app",
+          "link": "https://ramblings.mcpher.com/vizzy-scrviz/",
+          "tip": "All about scrviz",
+          "icon": "scrviz",
+          "visible": true
+        },
         {
           "description": "Google developer expert",
           "link": "https://developers.google.com/community/experts/directory/profile/profile-bruce_mcpherson",
@@ -73,14 +94,14 @@
           "description": "Video channel",
           "link": "https://www.youtube.com/c/BruceMcpherson",
           "tip": "Bruce Mcpherson's Youtube channel",
-          "icon": "mdi-youtube",
+          "icon": "youtube",
           "visible": true
         },
         {
           "description": "Linkedin Profile",
           "link": "https://www.linkedin.com/in/brucemcpherson",
           "tip": "Bruce Mcpherson's linkedin profile",
-          "icon": "mdi-linkedin",
+          "icon": "linkedin",
           "visible": true
         }
       ]
@@ -93,7 +114,7 @@
             "description": "Handly helper for fiddler",
             "link": "https://ramblings.mcpher.com/vuejs-apps-script-add-ons/helper-for-fiddler/",
             "tip": "Wrapper library for fiddler:Abstracts sheet data - functional sheet processing",
-            "icon": "mdi-file-document",
+            "icon": "appsscript",
             "visible": true
           }
         ]
@@ -105,7 +126,7 @@
             "description": "Watching for server side Sheet changes from the client html service",
             "link": "https://ramblings.mcpher.com/gassnippets2/watching-for-server-side-changes-from-the-client-html-service/",
             "tip": "client-side to react to changes in data (or indeed any property) as well as changes in selection and Activesheet.",
-            "icon": "mdi-file-document",
+            "icon": "appsscript",
             "visible": true
           }
         ]
@@ -117,7 +138,27 @@
             "description": "Library compilation with many things too numnerous to list",
             "link": "https://ramblings.mcpher.com/gassnippets2/",
             "tip": "Check out the repo to see more",
-            "icon": "mdi-file-document",
+            "icon": "appsscript",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "repo": "bmVizzyCacheLibrarySheet",
+        "rows": [
+          {
+            "description": "Vizzy cache example",
+            "link": "https://ramblings.mcpher.com/vizzy-scrviz/vizzy-build-apps-script/",
+            "tip": "Example building something in Apps Script with scrviz",
+            "icon": "appsscript",
+            "visible": true
+          }
+        ],
+        "tags": [
+          {
+            "description": "Sheets",
+            "tip": "Google sheets example",
+            "icon": "sheets",
             "visible": true
           }
         ]
@@ -129,14 +170,14 @@
             "description": "Fiddler: Abstracts sheet data library",
             "link": "https://ramblings.mcpher.com/gassnippets2/afunctionalapproachtofiddlingwithsheetdata/",
             "tip": "Functional approach to fiddling with sheet data",
-            "icon": "mdi-file-document",
+            "icon": "appsscript",
             "visible": true
           },
           {
             "description": "Fiddler Video: Abstracts sheet data library",
             "link": "https://www.youtube.com/watch?v=BGOvmV5PXJ0",
             "tip": "A video to get started with a functional approach to fiddling with sheet data",
-            "icon": "mdi-youtube",
+            "icon": "youtube",
             "visible": true
           },
           {
@@ -162,14 +203,14 @@
             "description": "OAuth2 for Apps Script in a few lines of code",
             "link": "https://ramblings.mcpher.com/oauth2-for-apps-script-in-a-few-lines-of-code/",
             "tip": "Low setup oauth2 library for Apps Script",
-            "icon": "mdi-file-document",
+            "icon": "appsscript",
             "visible": true
           },
           {
             "description": "How fast can you get OAuth2 set up in Apps Script?",
             "link": "https://ramblings.mcpher.com/oauth2-for-apps-script-in-a-few-lines-of-code/how-fast-can-you-get-oauth2-set-up-in-apps-script/",
             "tip": "Set up oauth2 from Apps Script to any service in under 15 minutes",
-            "icon": "mdi-file-document",
+            "icon": "appsscript",
             "visible": true
           }
         ]
