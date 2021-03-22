@@ -16,16 +16,22 @@ https://scrviz.web.app?owner=brucemcpherson
 For more info on scrviz see https://ramblings.mcpher.com/vizzy-scrviz/
 and on the profile see https://ramblings.mcpher.com/vizzy-scrviz/scrviz-profile/
 
+# tags
+scrviz now supports tags as well as rows. Here's a profile with both.
+![image](https://user-images.githubusercontent.com/1894020/111990827-8cea5280-8b0b-11eb-98db-101e74179a55.png)
+
+
 ## properties
 
 | name | purpose |
 | --- | --- |
 |scrviz.owner.login | this should match your github login name. It's used to verify that the profile matches the owner who is hosting it and is mandatory |
 |scrviz.owner.rows | an array of rows - each one will render a row in the scrviz profile |
+|scrviz.owner.tags | an array of tags - each one will render a tag in the scrviz profile tag area |
 
-#### each row can have these properties
+#### each row and tag can have these properties
 
-all are optional (except visibile) and will be replaced by some approriate default value if not supplied. 
+all are optional (except visibile) and will be replaced by some approriate default value if not supplied.
 
 | name | purpose |
 | --- | --- |
@@ -38,6 +44,10 @@ all are optional (except visibile) and will be replaced by some approriate defau
 #### Copying links
 
 For convenience, each row is wired up to be able to be copied to the clipboard if you click on the icon. If there is a link present it'll copy that, otherwise it'll copy the text
+
+## icons
+
+Although you can specify any icon from https://materialdesignicons.com/ as described above, scrviz has a whole list of built in icon and image definitions. This is going to help consistency across users, so use them if you can. see https://github.com/brucemcpherson/gitvizzy for the latest supported list
 
 
 
